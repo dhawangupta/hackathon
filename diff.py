@@ -1,4 +1,3 @@
-import yaml
 import json
 from urllib.request import urlopen
 from flatten_json import flatten
